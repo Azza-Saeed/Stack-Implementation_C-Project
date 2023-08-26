@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1693074756 source:c:\users\dell\desktop\stack implemintation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1693071650 c:\users\dell\desktop\stack implemintation\stack.h
+
+1693075952 source:c:\users\dell\desktop\stack implemintation\stack.c
+	<stdio.h>
+	"stack.h"
+
